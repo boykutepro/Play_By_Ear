@@ -1,0 +1,72 @@
+{
+    
+    "data" :[
+    {
+      "id": "Blue",
+      "name": "Blue",
+      "primaryColor": "#2196F3",
+      "primaryColorDark": "#1976D2",
+      "primaryColorLight" : "#B3E5FC",
+      "primaryTextColor": "#212121",
+      "secondPrimaryTextColor": "#757575",
+      "dividerColor": "#BDBDBD",
+      "colorAccent": "#FFFFFF"
+    },
+    {
+        "id": "Red",
+        "name": "Red",
+        "primaryColor": "#F44336",
+        "primaryColorDark": "#D32F2F",
+        "primaryColorLight" : "#FFCDD2",
+        "primaryTextColor": "#212121",
+        "secondPrimaryTextColor": "#757575",
+        "dividerColor": "#BDBDBD",
+        "colorAccent": "#FFFFFF"
+    },
+    {
+        "id": "Deep Green",
+        "name": "Deep Green",
+        "primaryColor": "#4CAF50",
+        "primaryColorDark": "#388E3C",
+        "primaryColorLight" : "#C8E6C9",
+        "primaryTextColor": "#212121",
+        "secondPrimaryTextColor": "#757575",
+        "dividerColor": "#BDBDBD",
+        "colorAccent": "#FFFFFF"
+    },
+    {
+             "id": "Coal Purple",
+             "name": "Coal Purple",
+             "primaryColor": "#0D1D2C",
+             "primaryColorDark": "#091623",
+             "primaryColorLight" : "#C8E6C9",
+             "primaryTextColor": "#ffffff",
+             "secondPrimaryTextColor": "#00BCD4",
+             "dividerColor": "#BDBDBD",
+             "colorAccent": "#FFFFFF"
+    },
+    {
+             "id": "Deep Purple",
+             "name": "Deep Purple",
+             "primaryColor": "#673ab7",
+             "primaryColorDark": "#512da8",
+             "primaryColorLight" : "#C8E6C9",
+             "primaryTextColor": "#ffffff",
+             "secondPrimaryTextColor": "#00BCD4",
+             "dividerColor": "#BDBDBD",
+             "colorAccent": "#FFFFFF"
+    },
+             
+        {
+             "id": "Indigo",
+             "name": "Indigo",
+             "primaryColor": "#3F51B5",
+             "primaryColorDark": "#283593",
+             "primaryColorLight" : "#C8E6C9",
+             "primaryTextColor": "#ffffff",
+             "secondPrimaryTextColor": "#00BCD4",
+             "dividerColor": "#BDBDBD",
+             "colorAccent": "#FFFFFF"
+    },
+  ]
+}

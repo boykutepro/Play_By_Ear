@@ -1,0 +1,91 @@
+/*
+ Localizable.strings
+ project
+ 
+ Created by Mac on 7/14/17.
+ Copyright © 2017 Mac. All rights reserved.
+ */
+
+//menu
+"HOME"              = "Trang Chủ" ;
+"CONTACT"           = "Danh bạ" ;
+"HELP"              = "Trợ Giúp" ;
+"ABOUT"             = "Chúng tôi" ;
+"MORE_APP"          = "Ứng dụng hay" ;
+"FEED_BACK"         = "Phản hồi" ;
+"SETTINGS"          = "Cài đặt" ;
+"REGISTER"          = "Đănt ký" ;
+"LOGOUT"            = "Log out" ;
+
+// login
+"LOGIN_TITLE"                               = "LOGIN" ;
+"LOGIN_NAME"                                = "Username/Email" ;
+"LOGIN_EMAIL"                               = "Username" ;
+"LOGIN_PASSWORD"                            = "Password" ;
+"LOGIN_LOGIN"                               = "Login"    ;
+"LOGIN_FORGOT_PASSWORD"                     = "Forgot Password" ;
+"LOGIN_HAVE_NOT_YET_ACCOUNT"                = "Have not yet account?";
+"LOGIN_SIGN_UP"                             = "Sign up"  ;
+
+// forgot password
+"FORGOT_FORGOT_PASSWORD"   = "FORGOT PASSWORD" ;
+"FORGOT_EMAIL_ADDRESS"     = "Enter your email address" ;
+"FORGOT_EMAIL"             = "Email" ;
+"FORGOT_REST_MY_PASSWORD"  = "REST MY PASSWORD" ;
+
+// SIGN UP
+"SIGNUP_SIGN_UP"           = "SIGN UP" ;
+"SIGNUP_PASSWORD"          = "Password" ;
+"SIGNUP_CONFIRM_PASS"      = "Confirm Password"  ;
+"SIGNUP_SIGN_UP"           = "SIGN UP" ;
+"SIGNUP_HAVE_ALREADY"      = "Have already account?" ;
+"SIGNUP_EMAIL"             = "Email" ;
+"SIGNUP_LOGIN"             = "Login" ;
+
+// FEEDBACK
+"FEEDBACK_TITLE"            = "Phản hồi" ;
+"FEEDBACK_NAME"             = "Tên của bạn (*)" ;
+"FEEDBACK_EMAIL"            = "Email của bạn (*)"  ;
+"FEEDBACK_SUBJECT"          = "Chủ đề (*)" ;
+"FEEDBACK_INPUT"            = "Nội dung phản hồi (*)" ;
+"FEEDBACK_SEND_FEEDBACK"    = "Gửi phản hồi" ;
+
+// SETTING
+"SETTING_NOTI_HEAD"         = "Notification" ;
+"SETTING_NOTI_BODY"         = "Notify me all" ;
+"SELECT_LANGUAGE"           = "Thay đổi ngôn ngữ";
+"SCREEN_SETTINGS"           = "Thiết lập màn hình";
+"SETTINGS_SCREEN_DES"       = "Giữ màn hình luôn sáng";
+"CHANGE_THEME"              = "Thay đổi theme";
+
+
+// THEME_COLOR
+"THEME_RED"                 = "Đỏ";
+"THEME_BLUE"                = "Xanh";
+"THEME_GREEN"               = "La cay";
+
+//
+"MSG_REGISTER_DIEUKHOAN" = "Khi bạn đăng ký là bạn đã chấp nhận";
+"CHAP_NHAN_DIEU_KHOAN" = "Điều khoản sử dụng";
+
+// home
+"SERVICE" = "Dịch vụ";
+"SHOP"    = "Cửa hàng";
+"INFOR"   = "Thông tin";
+"NGUOI_THEO_DOI" = "Người theo dõi";
+"TONG_CHI" = "Tổng thu chi";
+"CON_LAI" = "Còn lại";
+
+
+
+
+
+
+
+
+
+
+
+
+
+

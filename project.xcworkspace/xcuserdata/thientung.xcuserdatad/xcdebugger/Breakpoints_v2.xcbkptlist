@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "262CB036-FEC4-4C66-95D1-EA633EA5B7CF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D3C9CD8-2677-48E3-8D39-FDB4B85B54EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project/Src/Common/Config/Enum.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "FFError"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "7D3C9CD8-2677-48E3-8D39-FDB4B85B54EA - 27c2823aaa3a0c7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play_By_Ear_Pro.FFError.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;Play_By_Ear_Pro.FFError&gt;"
+                  moduleName = "Play By Ear Pro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thientung/Desktop/Suusoft&apos;s%20Files/ss-music-matteo-ios-0720/project/Src/Common/Config/Enum.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "7D3C9CD8-2677-48E3-8D39-FDB4B85B54EA - 7dda7336590c77f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play_By_Ear_Pro.FFError.rawValue.getter : Swift.String"
+                  moduleName = "Play By Ear Pro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thientung/Desktop/Suusoft&apos;s%20Files/ss-music-matteo-ios-0720/project/Src/Common/Config/Enum.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

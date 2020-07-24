@@ -1,0 +1,101 @@
+/*
+ Localizable.strings
+ project
+ 
+ Created by Mac on 7/14/17.
+ Copyright © 2017 Mac. All rights reserved.
+ */
+
+//menu
+"HOME"              = "Home" ;
+"CONTACT"           = "Contact" ;
+"HELP"              = "Help" ;
+"ABOUT"             = "About" ;
+"MORE_APP"          = "More apps" ;
+"FEED_BACK"         = "Feedback" ;
+"SETTINGS"          = "Settings" ;
+"REGISTER"          = "Register" ;
+"LOGOUT"            = "Log out" ;
+"FAVORITE"          = "Favorite";
+"PACKAGE"           = "Testing Package";
+
+// login
+"LOGIN_TITLE"                               = "LOGIN" ;
+"LOGIN_NAME"                                = "Username/Email" ;
+"LOGIN_EMAIL"                               = "Username" ;
+"LOGIN_PASSWORD"                            = "Password" ;
+"LOGIN_LOGIN"                               = "Login"    ;
+"LOGIN_FORGOT_PASSWORD"                     = "Forgot Password" ;
+"LOGIN_HAVE_NOT_YET_ACCOUNT"                = "Have not yet account?";
+"LOGIN_SIGN_UP"                             = "Sign up"  ;
+"LOGIN_SUB_TITLE"                           = "Enter your phone number to signin" ;
+"LOGIN_AUTHOR"                              = "Product of SuuSoft & A.N.A Family Co" ;
+"LOGIN_GUILDE"                              = "Guilde for signin" ;
+"NEXT"                           = "NEXT" ;
+
+// send verify code
+"VERIRY_CODE_TITLE"                         = "We have sent you an SMS with the code to " ;
+"VERIRY_CODE_NOTIFY"                        = "By entering SMS code I agree with terms and condition" ;
+"RESEND_VERIFICATION"                       = "RESEND VERIFICATION" ;
+"SMS_CODE"                                  = "SMS Code";
+"VERIFICATION_CODE"                         = "Verify Code";
+// Common
+"OK"                               = "OK" ;
+
+
+// forgot password
+"FORGOT_FORGOT_PASSWORD"   = "FORGOT PASSWORD" ;
+"FORGOT_EMAIL_ADDRESS"     = "Enter your email address" ;
+"FORGOT_EMAIL"             = "Email" ;
+"FORGOT_REST_MY_PASSWORD"  = "REST MY PASSWORD" ;
+
+// SIGN UP
+"SIGNUP_SIGN_UP"           = "SIGN UP" ;
+"SIGNUP_PASSWORD"          = "Password" ;
+"SIGNUP_CONFIRM_PASS"      = "Confirm Password"  ;
+"SIGNUP_SIGN_UP"           = "SIGN UP" ;
+"SIGNUP_HAVE_ALREADY"      = "Have already account?" ;
+"SIGNUP_EMAIL"             = "Email" ;
+"SIGNUP_LOGIN"             = "Login" ;
+
+// FEEDBACK
+"FEEDBACK_TITLE"            = "FEEDBACK" ;
+"FEEDBACK_NAME"             = "Your name (*)" ;
+"FEEDBACK_EMAIL"            = "Your email (*)"  ;
+"FEEDBACK_SUBJECT"          = "Your subject (*)" ;
+"FEEDBACK_INPUT"            = "  Input your feedback (*)" ;
+"FEEDBACK_SEND_FEEDBACK"    = "SEND FEEDBACK" ;
+
+// SETTING
+"SETTING_NOTI_HEAD"         = "Notification" ;
+"SETTING_NOTI_BODY"         = "Notify me all" ;
+"SETTING_REC_HEAD"          = "Recieve message from IH" ;
+"SETTING_REC_BODY"          = "News from instant Helper" ;
+"SELECT_LANGUAGE"           = "Change language";
+"SCREEN_SETTINGS"           = "Screen settings";
+"SETTINGS_SCREEN_DES"       = "Keep always on screen";
+"CHANGE_THEME"              = "Change theme";
+
+// THEME_COLOR
+"THEME_RED"                 = "Red";
+"THEME_BLUE"                = "Blue";
+"THEME_GREEN"               = "Green";
+
+// Tab
+"MY_ACCOUNT"               = "My Account";
+"Me"                       = "Me";
+"Pro"                      = "Pro";
+"Taxi"                     = "Taxi";
+
+//
+"MSG_REGISTER_DIEUKHOAN" = "Khi bạn đăng ký là bạn đã chấp nhận";
+"CHAP_NHAN_DIEU_KHOAN" = "Điều khoản sử dụng";
+
+// HOME
+"MSG_ENTER_PRICE" = "Please enter your price";
+"MSG_ENTER_ADDRESS_TO" = "Please enter your drop address";
+
+// LESSON
+"LESSON" = "Lesson";
+"VOCABULARY" = "Vocabulary";
+"QUESTION" = "Question";
